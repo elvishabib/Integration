@@ -1,4 +1,4 @@
-#Description du module
+
 Introduction to HTML / CSS integration, essential in the field of web technologies.
 The module is divided into two projects:
 1.	Introduction: which allows you to discuss the fundamentals of CSS and CSS3 innovations (with a particular focus on flexboxes)
